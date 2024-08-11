@@ -1,0 +1,6 @@
+#popup-body {
+    width: auto;
+    min-width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+}
